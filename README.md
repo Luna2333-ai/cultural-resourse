@@ -32,3 +32,15 @@
 
 6. 
 
+### 讨论
+1. SCWS简易中文分词
+2. mysql全文检索（英文）
+[mysql英文全文检索+SCWS简易中文分词+中英文编码对应=>实现中文全文检索](http://www.jcodecraeer.com/a/shujuku/2012/0728/324.html)
+3. 迅搜：[sunsearch](http://www.xunsearch.com/doc/index)
+4. [最近、最热搜索](https://segmentfault.com/a/1190000010125572)
+	历史记录
+-------------
+5. PHP登陆注册页面，同时连接mysql数据库
+6. 个人中心页面（收藏）
+7. s
+
